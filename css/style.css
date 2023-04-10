@@ -27,7 +27,27 @@ body{
 
 .header {
   background-color: #74b4ff;
-  width: 100vw;
   height: 88vh; /* Defina a altura desejada da div pai aqui */
   overflow: hidden;
+}
+
+.bgnav{
+    background-color: #ffffff !important;
+}
+
+.textonavbar{
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    color: #74B4FF !important;
+}
+
+.navtexto{
+    font-family: 'Jost', sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 600;
+    color: #74B4FF !important;
+    padding: 10px;
 }
