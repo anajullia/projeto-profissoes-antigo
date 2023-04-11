@@ -51,3 +51,13 @@ body{
     color: #74B4FF !important;
     padding: 10px;
 }
+
+.titulosobre{
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    color: #74B4FF !important;
+    text-align: center;
+    padding: 60px;
+}
