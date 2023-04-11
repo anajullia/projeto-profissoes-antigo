@@ -18,46 +18,14 @@ body{
     position: absolute;
 }
 
-.imgtopo {
-  margin-top: 0;
-  width: 100vw;
-  object-fit: cover;
-  transform: scale(0.9)
-}
-
 .header {
-  background-color: #74b4ff;
-  height: 88vh; /* Defina a altura desejada da div pai aqui */
-  overflow: hidden;
+  width: 100%;
 }
 
-.bgnav{
-    background-color: #ffffff !important;
-}
-
-.textonavbar{
+#texto_navbar{
     font-family: 'Jost', sans-serif;
     font-size: 30px;
     font-style: normal;
     font-weight: 600;
     color: #74B4FF !important;
-}
-
-.navtexto{
-    font-family: 'Jost', sans-serif;
-    font-size: 19px;
-    font-style: normal;
-    font-weight: 600;
-    color: #74B4FF !important;
-    padding: 10px;
-}
-
-.titulosobre{
-    font-family: 'Jost', sans-serif;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 600;
-    color: #74B4FF !important;
-    text-align: center;
-    padding: 60px;
 }
